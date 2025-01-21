@@ -1,1 +1,29 @@
+{
+  "products": [
+    {
+      "name": "Laptop Gaming ASUS ROG",
+      "price": 15000000
+    },
+    {
+      "name": "Smartphone Samsung Galaxy S21",
+      "price": 12000000
+    },
+    {
+      "name": "Kamera Canon EOS 90D",
+      "price": 16000000
+    },
+    {
+      "name": "Headset Bluetooth Sony WH-1000XM4",
+      "price": 4000000
+    },
+    {
+      "name": "Mouse Gaming Razer DeathAdder V2",
+      "price": 800000
+    },
+    {
+      "name": "Keyboard Mechanical Corsair K95",
+      "price": 2000000
+    }
+  ]
+}
 
